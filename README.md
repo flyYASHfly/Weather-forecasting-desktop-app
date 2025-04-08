@@ -1,3 +1,8 @@
+![Screenshot 2025-04-08 095105](https://github.com/user-attachments/assets/ab1b3e11-216a-464d-bde2-03f73a3ac142)
+![Screenshot 2025-04-08 095117](https://github.com/user-attachments/assets/f0aaade5-629f-42a0-92e5-84fb3ee1834e)
+![Screenshot 2025-04-08 095132](https://github.com/user-attachments/assets/f1128420-5f30-46aa-8d83-69903db400fb)
+
+
 🔷 Project Goal:
 Build a simple desktop app where a user can:
 
